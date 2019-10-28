@@ -5,7 +5,7 @@
 
 ### BiDAF 模型
 
-BiDAF 模型。
+使用 BiDAF 模型测试 SQuAD 数据集，结果：dev EM: 54.13 dev F1: 66.95。
 
 ## 数据集
 
